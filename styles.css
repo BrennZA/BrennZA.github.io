@@ -193,7 +193,7 @@ html {
 .hp-container {
     height: 100vh;
 
-    background-image: url(/../images/hp-image-final.png);
+    background-image: url(/hp-image-final.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
